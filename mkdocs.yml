@@ -1,7 +1,8 @@
-site_name: Vizio Setup
-theme:
-  name: material
+site_name: VIZIO Setup Docs
 
 nav:
   - Home: index.md
   - About: about.md
+
+theme:
+  name: material
